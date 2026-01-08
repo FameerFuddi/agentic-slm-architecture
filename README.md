@@ -30,8 +30,8 @@ This transforms a non-deterministic probabilistic model into a reliable system.
 ## Installation & Usage
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/agentic-slm-project.git
-cd agentic-slm-project
+git clone https://github.com/FameerFuddi/agentic-slm-architecture.git
+cd agentic-slm-architecture
 
 ### 2. Install Dependencies
 pip install torch numpy datasets tiktoken tqdm requests
